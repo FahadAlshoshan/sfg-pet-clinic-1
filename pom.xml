@@ -37,7 +37,7 @@
     </plugins>
   </build>
   <scm>
-    <developerConnection>scm:git:[your git repo url/ssh]</developerConnection>
+    <developerConnection>scm:git:https://github.com/FahadAlshoshan/sfg-pet-clinic-1</developerConnection>
     <tag>0.0.1</tag>
   </scm>
 
